@@ -14,6 +14,7 @@ features = ['nazwa', 'opka', 'ela', 'op']
 
 df = df[features]
 
+#dla czytelnosci nazwy - zamien taki html na pusta linie
 df['nazwa'] = [re.sub("<.*?>", "", text) for text in df['nazwa']]
 
 print(df)

@@ -11,3 +11,7 @@
     b) dokumentacje
 
 3. Walidacja i porownanie
+
+
+#warstwy ukryte - fajny playground xd
+https://playground.tensorflow.org

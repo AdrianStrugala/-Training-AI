@@ -1,6 +1,9 @@
 import tensorflow as tf
 import numpy as np
 
+#funkcja - sigmoidalna
+#najbezpieczniejsza jest Relu
+
 np.set_printoptions(suppress=True)
 
 print(tf.__version__)

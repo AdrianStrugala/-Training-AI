@@ -15,3 +15,7 @@
 
 #warstwy ukryte - fajny playground xd
 https://playground.tensorflow.org
+
+sa algorytmy do sprawdzania wielu parametrow:
+-teapot
+-gridsearch
